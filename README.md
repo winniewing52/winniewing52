@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winnie Ng</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 - 📫 How to reach me **wngg0057@student.monash.edu**
 
