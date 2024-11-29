@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/winnie-ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winnie-ng" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/winnie-ng-1b13642b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winnie-ng" height="30" width="40" /></a>
 <a href="https://instagram.com/winniewing025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="winniewing025" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/winniewing052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="winniewing052" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/winniewing52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="winniewing52" height="30" width="40" /></a>
