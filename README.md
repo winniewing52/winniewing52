@@ -18,6 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=winniewing52&show_icons=true&locale=en&layout=compact" alt="winniewing52" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winniewing52&" alt="winniewing52" /></p>
-
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/wng?1337Badge=off&UM6P=off" alt="wng's 42 stats" /></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winniewing52&" alt="winniewing52" /></p>
