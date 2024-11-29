@@ -19,3 +19,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=winniewing52&show_icons=true&locale=en&layout=compact" alt="winniewing52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winniewing52&" alt="winniewing52" /></p>
+
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/<wng>" alt="wng's 42 stats" />
+  </a>
+</p>
