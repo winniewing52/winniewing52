@@ -20,8 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winniewing52&" alt="winniewing52" /></p>
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/<wng>" alt="wng's 42 stats" />
-  </a>
-</p>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/wng?1337Badge=off&UM6P=off" alt="wng's 42 stats" /></a>
