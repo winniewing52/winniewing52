@@ -21,3 +21,10 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/wng?1337Badge=off&UM6P=off" alt="wng's 42 stats" /></a>
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=winniewing52&" alt="winniewing52" /></p>
+
+### 42 School Projects that I done
+<div align="center">
+
+<a href="https://github.com/winniewing52/42KL_Cursus/tree/main/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/winniewing52/42KL_Cursus/tree/main/get_next_line">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png)</a>
+<a href="https://github.com/winniewing52/42KL_Cursus/tree/main/ft_printf">![42 Badge](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png)</a>
