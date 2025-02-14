@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Winnie Ng</h1>
-<h3 align="center">A passionate computer science student from Malaysia who is dedicated to solve complex problems through technology</h3>
+<h3 align="center">A passionate computer science student from Monash University Malaysia who is dedicated to solve complex problems through technology</h3>
 
 - 📫 How to reach me **wngg0057@student.monash.edu**
 
@@ -19,8 +19,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=winniewing52&show_icons=true&locale=en&layout=compact" alt="winniewing52" />
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/wng?1337Badge=off&UM6P=off" alt="wng's 42 stats" /></a>
-
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=winniewing52&" alt="winniewing52" /></p>
 
 ### 42 School Projects that I done
 <div align="center">
