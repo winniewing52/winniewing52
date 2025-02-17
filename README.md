@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Winnie Ng</h1>
-<h3 align="center">A passionate computer science student from Monash University Malaysia who is dedicated to solve complex problems through technology</h3>
+<h1 align="center">Hi there! 👋 I'm Winnie Ng</h1>
+<h3 align="center">A Computer Science student at Monash University Malaysia, passionate about coding and problem-solving. Currently, I'm also a Cadet at 42KL, where I'm continually enhancing my skills and learning through immersive, hands-on projects</h3>
 
 - 📫 How to reach me **wngg0057@student.monash.edu**
 
